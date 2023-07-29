@@ -503,7 +503,7 @@ img {
 }
 .cards-item:hover .cards-cover,
 .cards-item:focus .cards-cover {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 
 .cards-names {
